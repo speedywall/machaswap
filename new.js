@@ -1,1 +1,1 @@
-waitttt
+console.log("please, subscribe")
